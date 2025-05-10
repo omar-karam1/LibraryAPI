@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\omar\\Desktop\\projects\\LibraryAPI\\Library\\Library\\wwwroot\\Image\\authors\\16ae80e6-8356-4af0-bf9e-3e1bce084cdb_y.png",
+      "PackagePath": "staticwebassets\\Image\\authors\\16ae80e6-8356-4af0-bf9e-3e1bce084cdb_y.png"
+    },
+    {
+      "Id": "C:\\Users\\omar\\Desktop\\projects\\LibraryAPI\\Library\\Library\\wwwroot\\books\\free\\52b74c37-6acb-4f45-8568-ce314661b5db.pdf",
+      "PackagePath": "staticwebassets\\books\\free\\52b74c37-6acb-4f45-8568-ce314661b5db.pdf"
+    },
+    {
+      "Id": "C:\\Users\\omar\\Desktop\\projects\\LibraryAPI\\Library\\Library\\wwwroot\\books\\free\\9d0e0de6-cb2e-4b07-bb8b-efba2d3f8131.pdf",
+      "PackagePath": "staticwebassets\\books\\free\\9d0e0de6-cb2e-4b07-bb8b-efba2d3f8131.pdf"
+    },
+    {
+      "Id": "C:\\Users\\omar\\Desktop\\projects\\LibraryAPI\\Library\\Library\\wwwroot\\books\\free\\d1980fd4-902a-4e51-8613-9d8beb439852.pdf",
+      "PackagePath": "staticwebassets\\books\\free\\d1980fd4-902a-4e51-8613-9d8beb439852.pdf"
+    },
+    {
+      "Id": "C:\\Users\\omar\\Desktop\\projects\\LibraryAPI\\Library\\Library\\wwwroot\\books\\images\\0af7fbf2-fe51-4890-97a9-75bb76d11a6b.png",
+      "PackagePath": "staticwebassets\\books\\images\\0af7fbf2-fe51-4890-97a9-75bb76d11a6b.png"
+    },
+    {
+      "Id": "C:\\Users\\omar\\Desktop\\projects\\LibraryAPI\\Library\\Library\\wwwroot\\books\\images\\14ad68f8-1c9b-455f-8095-52ac7dfab5d6.png",
+      "PackagePath": "staticwebassets\\books\\images\\14ad68f8-1c9b-455f-8095-52ac7dfab5d6.png"
+    },
+    {
+      "Id": "C:\\Users\\omar\\Desktop\\projects\\LibraryAPI\\Library\\Library\\wwwroot\\books\\images\\6fc0acaa-f7ac-4a25-a543-7385bffcbaa0.png",
+      "PackagePath": "staticwebassets\\books\\images\\6fc0acaa-f7ac-4a25-a543-7385bffcbaa0.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Library.props",
+      "PackagePath": "build\\Library.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Library.props",
+      "PackagePath": "buildMultiTargeting\\Library.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Library.props",
+      "PackagePath": "buildTransitive\\Library.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
